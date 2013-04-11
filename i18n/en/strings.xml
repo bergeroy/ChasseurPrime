@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="home">Home</string>	
+	<string name="settings">Settings</string>
+
+	<string name="fugitifs">Fugitives</string>
+	<string name="captures">Captured</string>
+	
+	<string name="ajouter">Add</string>
+	<string name="capturer">Capture</string>
+	<string name="supprimer">Delete</string>
+	<string name="attrape">Busted!</string>
+	<string name="en_fuite">Still At Large</string>
+	<string name="nouveau_fugitif">New Fugitive</string>
+	<string name="sauvegarder">Save</string>
+	<string name="nom_fugitif">Fugitive Name</string>
+</resources>
